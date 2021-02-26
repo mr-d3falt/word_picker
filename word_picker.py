@@ -24,5 +24,3 @@ file.close()
 new_file.close()
 print("\nFinished:")
 print("rockyou_"+num+"_ch.txt was succesifuly created !\n")
-
-
