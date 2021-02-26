@@ -21,12 +21,12 @@ pip3 install -r requirements.txt
 ```
 ## Usage
 ```
-python3 word_picker.py NUMBER_OF_CHARCTERS PATH_TO_WORDLIST
+python3 word_picker.py PATH_TO_WORDLIST NUMBER_OF_CHARCTERS 
 
 ```
 ## Usage Example
 ```
-~/word_picker$ python3 word_picker.py 5 ../Desktop/rockyou.txt
+~/word_picker$ python3 word_picker.py ../Desktop/rockyou.txt 5 
 _______  ____   ____ |  | _____.__. ____  __ __  _/  |____  ____/  |_ 
 \_  __ \/  _ \_/ ___\|  |/ <   |  |/  _ \|  |  \ \   __\  \/  /\   __\
  |  | \(  <_> )  \___|    < \___  (  <_> )  |  /  |  |  >    <  |  |  
