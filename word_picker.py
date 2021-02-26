@@ -10,7 +10,7 @@ else:
 if len(sys.argv) > 2:
     num = sys.argv[2]
 else:
-    num = input("Please specify number of charachters: ")
+    num = input("Please specify number of characters: ")
 n = int(num)
 with open(r""+path, encoding="latin-1") as file: 
     allText = file.read() 
