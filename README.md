@@ -40,4 +40,4 @@ rockyou_5_ch.txt was succesifuly created !
 ~/word_picker$ ls
 README.md  requirements.txt  rockyou_5_ch.txt  word_picker.py
 ```
-As you can see rockyou_5_ch.txt was created. Script picked only 5 chacrachter length words.
+As you can see 'rockyou_5_ch.txt' was created. Script picked only 5 chacrachter length words and wrote them to the 'rockyou_5_ch.txt' .
