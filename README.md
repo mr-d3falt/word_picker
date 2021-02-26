@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ```
 ## Usage
 ```
-python3 word_picker.py PATH_TO_WORDLIST NUMBER_OF_CHARCTERS 
+python3 word_picker.py PATH_TO_WORDLIST NUMBER_OF_CHARACTERS 
 
 ```
 ## Usage Example
@@ -38,4 +38,4 @@ rockyou_5_ch.txt was succesifuly created !
 ~/word_picker$ ls
 README.md  requirements.txt  rockyou_5_ch.txt  word_picker.py
 ```
-As you can see 'rockyou_5_ch.txt' was created. Script picked only 5 chacrachter length words and wrote them to the 'rockyou_5_ch.txt' .
+As you can see 'rockyou_5_ch.txt' was created. Script picked only 5 character length words and wrote them to the 'rockyou_5_ch.txt' .
