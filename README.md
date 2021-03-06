@@ -19,8 +19,11 @@ pip3 install -r requirements.txt
 ```
 ## Usage
 ```
-python3 word_picker.py PATH_TO_WORDLIST NUMBER_OF_CHARACTERS 
-
+python3 word_picker.py PATH_TO_WORDLIST NUMBER_OF_CHARACTERS
+```
+Or
+```
+python3 word_picker.py PATH_TO_WORDLIST MIN_NUMBER_OF_CHARACTERS  MAX_NUMBER_OF_CHARACTERS 
 ```
 ## Usage Example
 ```
