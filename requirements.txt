@@ -1,2 +1,4 @@
 # WP/word_picker.py: 3
 pyfiglet == 0.8.post1
+# word_picker/word_picker.py: 4
+tqdm == 4.59.0
