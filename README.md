@@ -12,9 +12,9 @@ cd word_picker
 **Install requirments**
 ```
 pip install -r requirements.txt
-
-#Or
-
+```
+Or
+```
 pip3 install -r requirements.txt
 ```
 ## Usage
