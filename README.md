@@ -45,7 +45,7 @@ README.md  requirements.txt  rockyou_5_ch.txt  word_picker.py
 ```
 As you can see 'rockyou_5_ch.txt' was created. Script picked only 5 character length words and wrote them to the 'rockyou_5_ch.txt' .
 ##
-You also can specify 2 numbers.
+You also can specify 2 numbers. ```MIN_NUMBER_OF_CHARACTERS  MAX_NUMBER_OF_CHARACTERS```
 ```
 ~/word_picker$ python3 word_picker.py ../Desktop/rockyou.txt 8 10
                       __                           __            __   
