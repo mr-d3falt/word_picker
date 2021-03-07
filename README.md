@@ -1,6 +1,6 @@
 # word_picker
 Optimize your  word-list/dictionary.
-## Installation
+## Installation (Linux)
 
 ```bash
 git clone https://github.com/mr-d3falt/word_picker.git
@@ -8,6 +8,24 @@ git clone https://github.com/mr-d3falt/word_picker.git
 **Switch to script's directory**
 ```
 cd word_picker
+```
+**Install requirments**
+```
+pip install -r requirements.txt
+```
+Or
+```
+pip3 install -r requirements.txt
+```
+## Installation (Windows)
+1) Install Python (You may install it from Microsoft Store)
+2) Download zip archive of this repository.
+(Or simply click https://github.com/mr-d3falt/word_picker/archive/main.zip)
+3) Unzip the archive
+4) Open CMD (Command Prompt)
+**Switch to script's directory**
+```
+cd Downloads/word_picker-main
 ```
 **Install requirments**
 ```
