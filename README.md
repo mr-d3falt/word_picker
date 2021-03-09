@@ -1,3 +1,5 @@
+![Version 2.0](http://img.shields.io/badge/version-v2.0-orange.svg)
+![Python 3.9](http://img.shields.io/badge/python-3.9-blue.svg)
 # word_picker
 Optimize your  word-list/dictionary.
 ## Installation (Linux)
